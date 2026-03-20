@@ -1,55 +1,55 @@
-# GitHub Statistics Dashboard
+<h1 align="center">Anes Abdelli</h1>
 
-Interactive GitHub Pages dashboard with **real GitHub data only**.
+<p align="center">
+   Full-stack developer building practical AI, thoughtful products, and modern web experiences.
+</p>
 
-## What this project does
+<p align="center">
+   <a href="https://github.com/anesabdelli">GitHub</a>
+   ·
+   <a href="https://github.com/anesabdelli?tab=repositories">Projects</a>
+   ·
+   <a href="https://github.com/anesabdelli?tab=followers">Followers</a>
+</p>
 
-- Displays stats from `assets/stats.json`
-- Never fabricates missing values
-- Shows `Unavailable` when data is not accessible
-- Updates stats automatically with GitHub Actions
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=anesabdelli&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
+   <img src="https://img.shields.io/github/followers/anesabdelli?style=flat-square&color=ea580c&labelColor=1f2937" alt="GitHub followers" />
+</p>
 
-## Authentication model (safe)
+## Overview
 
-Do **not** put tokens in frontend code (`index.html` / `script.js`).
+- Building usable products with clean engineering decisions.
+- Interested in AI tooling, automation, and developer experience.
+- Comfortable across frontend, backend, and product-focused delivery.
 
-For private stats:
+## Stack
 
-1. Create a Personal Access Token (classic or fine-grained)
-2. Grant minimum read permissions to repositories and profile data
-3. In your repository, add secret:
-   - `Settings -> Secrets and variables -> Actions -> New repository secret`
-   - Name: `GH_STATS_TOKEN`
-   - Value: your token
-4. (Optional) Add repository variable:
-   - `Settings -> Secrets and variables -> Actions -> Variables`
-   - Name: `GH_USERNAME`
-   - Value: your GitHub username
+`JavaScript` `TypeScript` `React` `Node.js` `Python` `Java`
 
-If `GH_STATS_TOKEN` is missing or invalid, the workflow automatically falls back to **public-only** mode.
+## Stats
 
-## Enable GitHub Pages
+<p align="center">
+   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anesabdelli&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anesabdelli&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
 
-1. Push this project to a public repository
-2. Go to `Settings -> Pages`
-3. Set:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/ (root)`
-4. Save and wait for deployment URL
+## Activity
 
-## Run stats update
+<p align="center">
+   <img height="175" src="https://streak-stats.demolab.com?user=anesabdelli&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
 
-- Go to `Actions -> Update GitHub Stats -> Run workflow`
-- This generates or refreshes `assets/stats.json`
+<p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anesabdelli&bg_color=ffffff00&color=0f766e&line=ea580c&point=1f2937&area=true&hide_border=true" alt="Contribution graph" />
+</p>
 
-## How to give Copilot access (without sharing secrets)
+## Achievements
 
-Use your local authentication in VS Code/terminal:
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=anesabdelli&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
 
-1. Install GitHub CLI (`gh`) if needed
-2. Run: `gh auth login`
-3. Choose GitHub.com and complete browser auth
-4. Keep token private; no need to paste it in chat
+---
 
-This allows git operations from your local environment while keeping credentials private.
+This README uses live GitHub-based cards and does not hardcode statistics.
