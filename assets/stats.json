@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-03-20T12:59:10.054Z",
+  "username": "anesabdelli",
+  "scope": {
+    "includesPrivate": false,
+    "reason": "Public-only mode (no token, invalid scope, or token owner differs from GH_USERNAME)."
+  },
+  "metrics": {
+    "followers": 3,
+    "following": 14,
+    "publicRepos": 10,
+    "privateRepos": null,
+    "totalRepos": 10,
+    "totalStarsOwned": 1,
+    "totalForksOwned": 0,
+    "openIssuesOwned": 0,
+    "contributionsLastYear": null
+  },
+  "meta": {
+    "unavailable": [
+      "privateRepos",
+      "contributionsLastYear"
+    ],
+    "sources": {
+      "followers": "GitHub REST /users/{username}",
+      "following": "GitHub REST /users/{username}",
+      "publicRepos": "GitHub REST /users/{username}/repos",
+      "totalRepos": "GitHub REST /users/{username}/repos",
+      "totalStarsOwned": "GitHub REST /users/{username}/repos stargazers_count",
+      "totalForksOwned": "GitHub REST /users/{username}/repos forks_count",
+      "openIssuesOwned": "GitHub REST /users/{username}/repos open_issues_count"
+    }
+  }
+}
