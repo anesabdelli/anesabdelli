@@ -1,7 +1,7 @@
 <h1 align="center">Anes Abdelli</h1>
 
 <p align="center">
-   Full-stack developer crafting practical AI, clean systems, and modern web products.
+   Software engineer focused on practical, well-structured applications.
 </p>
 
 <p align="center">
@@ -22,21 +22,20 @@
 
 ## About
 
-- Building scalable products with strong UX and clean engineering choices.
-- Focused on AI tooling, automation, and developer productivity.
-- Comfortable across frontend, backend, APIs, and product delivery.
+- Based in Paris, France.
+- Building Java and TypeScript applications with clean architecture.
+- Public repositories include desktop apps, algorithms, and web projects.
 
 ## Languages and Tools
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,php,html,css,react,nextjs,nodejs,express,nestjs,fastapi,django,spring,postgres,mysql,mongodb,redis,docker,kubernetes,aws,azure,gcp,git,github,linux,vscode,figma&perline=10" alt="Languages and tools" />
+   <img src="https://skillicons.dev/icons?i=java,ts,html,css,c,angular,git,github,vscode,linux&perline=10" alt="Languages and tools from public repositories" />
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-0f766e?style=flat-square" alt="Frontend" />
-   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20Java-ea580c?style=flat-square" alt="Backend" />
-   <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-2563eb?style=flat-square" alt="Cloud" />
-   <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-7c3aed?style=flat-square" alt="Data" />
+   <img src="https://img.shields.io/badge/Main%20Language-Java-0f766e?style=flat-square" alt="Main language" />
+   <img src="https://img.shields.io/badge/Also-TypeScript%20%7C%20HTML%20%7C%20C-ea580c?style=flat-square" alt="Other languages" />
+   <img src="https://img.shields.io/badge/Recent%20Project-eventlab%20(JavaFX%20%2B%20JDBC)-2563eb?style=flat-square" alt="Recent project" />
 </p>
 
 ## GitHub Stats
@@ -73,4 +72,4 @@
 
 ---
 
-This profile README uses live GitHub cards and updates automatically.
+All metrics above are generated from live GitHub data.
