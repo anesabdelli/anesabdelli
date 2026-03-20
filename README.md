@@ -41,7 +41,6 @@
 ## GitHub Stats
 
 <p align="center">
-   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anesabdelli&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anesabdelli&layout=compact&hide_border=true&theme=transparent&langs_count=10" alt="Top languages" />
 </p>
 
