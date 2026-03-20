@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T12:59:10.054Z",
+  "generatedAt": "2026-03-20T13:23:24.287Z",
   "username": "anesabdelli",
   "scope": {
     "includesPrivate": false,
@@ -8,9 +8,9 @@
   "metrics": {
     "followers": 3,
     "following": 14,
-    "publicRepos": 10,
+    "publicRepos": 11,
     "privateRepos": null,
-    "totalRepos": 10,
+    "totalRepos": 11,
     "totalStarsOwned": 1,
     "totalForksOwned": 0,
     "openIssuesOwned": 0,
