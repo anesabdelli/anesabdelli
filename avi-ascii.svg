@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="498" viewBox="0 0 528 498" role="img" aria-labelledby="title description">
+  <title id="title">Animated ASCII portrait of Anes Abdelli</title>
+  <desc id="description">A portrait made from ASCII characters with a moving cyan-to-violet light sweep.</desc>
+  <defs>
+    <linearGradient id="ascii-glow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="528" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="0.42" stop-color="#c4b5fd"/>
+      <stop offset="0.62" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-528 0;528 0;-528 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="scan-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="portrait-clip">
+      <rect x="8" y="52" width="512" height="405" rx="10"/>
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" rx="18" fill="#0b1220"/>
+  <rect x="1" y="1" width="526" height="496" rx="17" fill="none" stroke="#263449" stroke-width="2"/>
+  <circle cx="21" cy="25" r="4" fill="#22d3ee"/>
+  <text x="34" y="29" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">ANES ABD. / ASCII PORTRAIT</text>
+  <text x="452" y="29" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="9">LIVE ART</text>
+  <g clip-path="url(#portrait-clip)">
+    <rect x="8" y="52" width="512" height="405" fill="#0e192b"/>
+    <g fill="url(#ascii-glow)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" font-weight="700" xml:space="preserve">
+    <text x="12" y="64">=======================-=--====+=====================-==</text><text x="12" y="74">=======================-==-======++===============-====-</text><text x="12" y="84">======================--=--=======+++======------=-=-===</text><text x="12" y="94">===================--=--=------==------=-====-----------</text><text x="12" y="104">+================--------=------------------------------</text><text x="12" y="114">++++++=====-------=------=-----------------------=------</text><text x="12" y="124">====++++++====-----------==-----------------------==----</text><text x="12" y="134">---================-----:==--------------------------=--</text><text x="12" y="144">----------==============-==--------:::::::::::::::----==</text><text x="12" y="154">-------------------==-==-==-----:--------------=====++++</text><text x="12" y="164">-----------::::::::--==+=+++++=======+=-=++++++++=+=++++</text><text x="12" y="174">--------------------===++*+++++=====--------------------</text><text x="12" y="184">:::::::::::::-:::::::::--==----------:-----:::---=------</text><text x="12" y="194">:::::::::::::::....::.:-:-:.::::-=----------:-----====--</text><text x="12" y="204">::::::::::::::.....::.:::-::-:::-=---------::------===--</text><text x="12" y="214">:::::::::::::: .....:.:-:-::---------------::------=----</text><text x="12" y="224">::......:::::. .....:.:-:::::..::----------::-----===-:-</text><text x="12" y="234">...........::.  .....:.....      .-=-------:------===---</text><text x="12" y="244">............:   ....:.  .:-:...   .=-------:------===---</text><text x="12" y="254">...........:.   ..... :=+***+++-.  .=-------------==----</text><text x="12" y="264">...........:.   .... -**********+:  :-:::::-------=---:-</text><text x="12" y="274">...........:    ... :**********+++- .-:::::-------------</text><text x="12" y="284">..........:.    :...=+++*******+++=. :::::::::-:---::---</text><text x="12" y="294">::........:.   .:...=++=++***+=----. :::::::-------:::::</text><text x="12" y="304">:::::::::::. ...:.:-**++++*++++=+=-. ::.::.:::::---:--::</text><text x="12" y="314">:::::::::::::::::..+*+++++*++++===+-.::::::::::---::--::</text><text x="12" y="324">::::::::::-:::::::-+*******++++++++:::--::-::::---::::::</text><text x="12" y="334">-:::::::::-:::::::++***#***+=+****=-=:::-..::::---::::::</text><text x="12" y="344">---:::::::-=-:::::=+****++*+=+***+===:::-..:::..::::::::</text><text x="12" y="354">----::::::-=::::::-+***++=+===++++---.:.::.::::::::::::.</text><text x="12" y="364">----:::::::::::::::-++++=++====++=:-:...:::::....:..::..</text><text x="12" y="374">=---::::::::::::::::=+++++=====+=-.:..........   ...:...</text><text x="12" y="384">=---:::::::::::::::::=++++==++==-.........       .......</text><text x="12" y="394">=--::::::..:::::::::.--+++=+++=:.:-.......  ... .:......</text><text x="12" y="404">==-:::..::::::::::..-+-:------::-=+-....................</text><text x="12" y="414">-=+=:.....::::....:=+=+=-:.::-===+*+:...........:.......</text><text x="12" y="424">---=+:....:...:-=+##=-++++==++==+#**+-:... .....:...... </text><text x="12" y="434">--::--....::-+*##*##=-+++++++==*#*****+=-:......:.......</text><text x="12" y="444">---::::.:=+**###**#*=-+++++==+###*#****##*+-............</text><text x="12" y="454">---:::.-*#**####*#**+-=+++=+*####*#****#****=-:.........</text>
+    </g>
+    <rect x="8" y="52" width="512" height="22" fill="url(#scan-glow)">
+      <animate attributeName="y" values="52;446;52" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="12" y="484" fill="#64748b" font-family="ui-monospace, monospace" font-size="9">TYPE · FORM · LIGHT</text>
+  <text x="463" y="484" fill="#64748b" font-family="ui-monospace, monospace" font-size="9">01 / 01</text>
+</svg>
